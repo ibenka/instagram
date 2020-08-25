@@ -15,7 +15,7 @@
  *= require_self
  */
 
- $fa-font-path: '@fortawesome/fontawesome-free/webfonts';
+$fa-font-path: '@fortawesome/fontawesome-free/webfonts';
 @import '@fortawesome/fontawesome-free/scss/fontawesome';
 @import '@fortawesome/fontawesome-free/scss/solid';
 @import '@fortawesome/fontawesome-free/scss/regular';
@@ -33,7 +33,7 @@
     a{
       padding-left: 15px;
     }
-    i.fa{
+    i.fas{
       font-size: 22px;
       color: #000000d4;
     }
